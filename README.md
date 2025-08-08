@@ -44,3 +44,7 @@ Despite these challenges, I gained valuable insights into how to structure serve
 ### Bonus Tasks
 
 Unfortunately, I haven't completed the bonus tasks due to a lack of time. I focused on implementing the core functionality as clearly and correctly as possible.
+
+## Demo Video
+
+[Watch the demo video](https://youtu.be/HkmF6bShxrA)
